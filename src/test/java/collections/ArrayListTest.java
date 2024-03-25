@@ -26,6 +26,8 @@ public class ArrayListTest {
         arrayToListNumber.add(5 , 20);
 //        change index values
         arrayToListNumber.add(2 , 22);
+//        remove an index
+        arrayToListNumber.remove(2);
 
 //        then
         List<Integer> expectedList = new ArrayList<>();
