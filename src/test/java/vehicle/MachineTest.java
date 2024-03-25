@@ -1,3 +1,5 @@
+package vehicle;
+
 import static java.lang.System.*;
 import static org.junit.jupiter.api.Assertions.*;
 
